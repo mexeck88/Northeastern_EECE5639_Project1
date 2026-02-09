@@ -2,4 +2,4 @@
 
 ### Collection of Assignment Files for Northeastern's Computer Vision Project 1
 
-[![Report Preview](final_preview.png)](Final_report.pdf)
+[![Report Preview](report/final_preview.png)](report/Final_report.pdf)
